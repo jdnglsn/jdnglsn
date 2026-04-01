@@ -1,8 +1,8 @@
-## Hi there, I'm JD Angelo G. Soon! 👋
+# Hi there, I'm JD Angelo G. Soon! 👋
 
-💼 Computer Engineering Student at Polytechnic University of the Philippines
-📫 Reach me at: jdangelogsoon@gmail.com
-🔭 Currently working on game development
+- 💼 Computer Engineering Student at Polytechnic University of the Philippines
+- 📫 Reach me at: jdangelogsoon@gmail.com
+- 🔨 Currently learning GODOT Game development
 
 
 <!--
