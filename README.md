@@ -1,7 +1,9 @@
-## Hi there, I'm JD Angelo G. Soon 👋
+## Hi there, I'm JD Angelo G. Soon! 👋
 
 💼 Computer Engineering Student at Polytechnic University of the Philippines
 📫 Reach me at: jdangelogsoon@gmail.com
+🔭 Currently working on game development
+
 
 <!--
 **jdnglsn/jdnglsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
